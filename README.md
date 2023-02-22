@@ -1,5 +1,7 @@
 # OngkirBar
 
+[Live Preview](https://ongkirbar.akbarrahmatm.my.id)
+
 ## Apa itu OngkirBar?
 OngkirBar adalah sebuah aplikasi berbasis web yang berfungsi sebagai alat/tools menghitung ongkos kirim.
 
