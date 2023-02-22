@@ -1,0 +1,91 @@
+/* https://colorhunt.co/palette/6e85b7b2c8dfc4d7e0f8f9d7 */
+/* #6E85B7 */
+/* #F8F9D7 */
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;600;700;800&display=swap');
+
+*{
+    font-family: 'Mukta', sans-serif;
+}
+
+body{
+    background-color: #F8F9D7;
+}
+
+.content{
+    min-height: 90vh;
+}
+
+.navbar{
+    background-color: #6E85B7;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    background-color: #6E85B7;
+    color: #F8F9D7;
+    font-weight: 600;
+    font-size: 20px;
+    min-height: 10vh;
+}
+
+.nav-item a{
+    color: #F8F9D7;
+    margin-left: 15px;
+    font-weight: 600;
+}
+
+.active{
+    color: #F8F9D7 !important;
+    text-decoration: underline;
+}
+
+a.navbar-brand{
+    font-size: 25px;
+    color: #F8F9D7;
+    font-weight: 600;
+}
+
+a.nav-link {
+    font-size: 18px;
+}
+
+a{
+    color: #F8F9D7;
+
+}
+a:hover{
+    color: #B2C8DF;
+}
+
+.jumbotron{
+    display: flex;
+    height: 60vh;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.jumbotron-body{
+    width: 50%;
+}
+
+.jumbo-btn{
+    background-color: #6E85B7;
+    color: #F8F9D7;
+    font-size: 20px;
+}
+.jumbo-text{
+    font-size: 25px;
+    font-weight: 300;
+}
+
+span.input-group-text{
+    min-width: 10%;
+}
+
+canvas{
+    width: 100% !important;
+    height: 100% !important;
+}
