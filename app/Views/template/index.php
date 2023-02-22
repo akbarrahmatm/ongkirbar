@@ -41,7 +41,7 @@
     </div>
     <footer>
         <div class="container text-center">
-            Dibuat dengan 💕 oleh <a target="_blank" href="https://akbarrahmatm.my.id">@akbarrahmatm</a>
+            Dibuat dengan 💕 oleh <a target="_blank" href="https://akbarrahmatm.my.id">@akbarrahmatm</a> || <a target="_blank" href="https://github.com/akbarrahmatm/ongkirbar">Source Code</a>
         </div>
     </footer>
     <script src="<?= base_url('assets/bootstrap/js/bootstrap.bundle.min.js') ?>"></script>
